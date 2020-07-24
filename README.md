@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Ricky Romero!
+###### *Mobile Engineer at Activision Blizzard*
+
+---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/romerorickyio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/romerorickyio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@romerorickyio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://romeroricky.io)  
 
 <!--
 **romerorickyio/romerorickyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
